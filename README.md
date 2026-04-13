@@ -1,6 +1,6 @@
 🔥 Hello hello 🔥
 
-Here's a simple facebook messenger wrapper that can be used instead of the messenger app that facebook has removed. The source of the messages is fb.com/messages
+Here's a simple unofficial desktop wrapper for facebook messenger.
 
 🔥 Installing
 1. Install Node.js if not already installed (https://nodejs.org/en/download)
